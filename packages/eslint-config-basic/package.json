@@ -1,0 +1,35 @@
+{
+  "name": "@matryoshka_lxw/eslint-config-basic",
+  "version": "0.0.2",
+  "description": "eslint-config-basic",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lixiaowei11111/FE_linter"
+  },
+  "homepage": "https://github.com/lixiaowei11111/FE_linter",
+  "peerDependencies": {
+    "eslint": ">=8.57.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-compat": "^6.0.1",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-html": "^8.1.2",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-jsonc": "^2.18.2",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-promise": "^6.6.0",
+    "eslint-plugin-yml": "^1.16.0",
+    "jsonc-eslint-parser": "^2.4.0",
+    "prettier": "^3.4.2",
+    "yaml-eslint-parser": "^1.2.3"
+  }
+}

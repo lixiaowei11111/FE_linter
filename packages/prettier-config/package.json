@@ -1,0 +1,12 @@
+{
+  "name": "@matryoshka_lxw/prettier-config",
+  "version": "0.0.2",
+  "description": "prettier config",
+  "license": "MIT",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lixiaowei11111/FE_linter"
+  },
+  "homepage": "https://github.com/lixiaowei11111/FE_linter"
+}

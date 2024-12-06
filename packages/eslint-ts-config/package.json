@@ -1,0 +1,25 @@
+{
+  "name": "@matryoshka_lxw/eslint-ts-config",
+  "version": "0.0.2",
+  "description": "eslint-ts-config",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lixiaowei11111/FE_linter"
+  },
+  "homepage": "https://github.com/lixiaowei11111/FE_linter",
+  "peerDependencies": {
+    "eslint": ">=8.57.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1"
+  },
+  "dependencies": {
+    "@matryoshka_lxw/eslint-config-basic": "^0.0.2",
+    "@typescript-eslint/eslint-plugin": "^8.17.0",
+    "@typescript-eslint/parser": "^8.17.0",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.6.0"
+  }
+}
